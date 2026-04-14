@@ -1,4 +1,4 @@
-##<p align="center">
+<p align="center">
   <img src="gittu.png" width="100%" />
 </p>
 
