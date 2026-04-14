@@ -89,6 +89,9 @@ I enjoy solving meaningful problems where technology creates real impact.
 
 ---
 <p align="center">
+  <These are "Nature Spirits!">
+  </b>
+<p align="center">
   <img src="gitty.jpg" width="100%" />
 <br/>
 
