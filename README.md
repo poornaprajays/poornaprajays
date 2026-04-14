@@ -2,13 +2,6 @@
   <img src="gittu.png" width="100%" />
 <br/>
 
-<div align="center">
-  <img src="banner.jpg" alt="Poorna Prajay S" width="100%" />
-</div>
-
-<br/>
-
-
 
 ## 👨‍💻 About Me
 
@@ -90,14 +83,16 @@ I enjoy solving meaningful problems where technology creates real impact.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornaprajays&theme=github-compact&hide_border=true&area=true&color=00FF00" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornaprajays&theme=github-compact&hide_border=true&area=true&color=1f6feb" width="96%" />
 </div>
+
 
 ---
+<p align="center">
+  <img src="gitty.png" width="100%" />
+<br/>
 
-<div align="center">
-  <i>✨ "Engineers turn dreams into reality." — Hayao Miyazaki</i>
-</div>
+
 
 
 
