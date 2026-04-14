@@ -12,6 +12,9 @@ Currently working as a **Wildlife Monitoring Intern**, contributing to a **3D Ec
 I enjoy solving meaningful problems where technology creates real impact.
 
 ---
+<p align="center">
+  <img src="birds.gif" width="100%" />
+<br/>
 
 ## 🛠️ Tech Stack
 
