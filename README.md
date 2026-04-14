@@ -9,7 +9,7 @@ I’m a Computer Science & Engineering student focused on building **real-world,
 
 Currently working as a **Wildlife Monitoring Intern**, contributing to a **3D Eco-Acoustic Monitoring Platform** that detects and classifies **birds** and **animals** **sounds** using machine learning and distributed IoT systems.
 
-I enjoy solving meaningful problems where technology creates real impact...
+This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
 <p align="center">
   <img src="birds.gif" width="100%" />
