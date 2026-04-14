@@ -82,10 +82,10 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ---
 <p align="center">
-  <These are "Nature Spirits!">
-  </b>
+  <These are "Nature Spirits!"/>
+  </br>
 <p align="center">
-  <img src="gitty.jpg" width="45%" />
+  <img src="gitty.jpg" width="55%" />
 <br/>
 
 
