@@ -73,7 +73,7 @@ I enjoy solving meaningful problems where technology creates real impact.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=poornaprajays&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=poornaprajays&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=poornaprajays&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
 <div align="center">
