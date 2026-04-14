@@ -1,7 +1,8 @@
 <p align="center">
   <img src="gittu.png" width="100%" />
 
-📊 GitHub Stats
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornaprajays&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
