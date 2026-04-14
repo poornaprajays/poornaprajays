@@ -12,7 +12,7 @@ Currently working as a **Wildlife Monitoring Intern**, contributing to a **3D Ec
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
 <p align="center">
-  <img src="birds.gif" width="55%" />
+  <img src="birds.gif" width="64%" />
 <br/>
 
 ---
@@ -85,7 +85,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <These are "Nature Spirits!">
   </b>
 <p align="center">
-  <img src="gitty.jpg" width="100%" />
+  <img src="gitty.jpg" width="45%" />
 <br/>
 
 
