@@ -89,7 +89,7 @@ I enjoy solving meaningful problems where technology creates real impact.
 
 ---
 <p align="center">
-  <img src="gitty.png" width="100%" />
+  <img src="gitty.jpg" width="100%" />
 <br/>
 
 
