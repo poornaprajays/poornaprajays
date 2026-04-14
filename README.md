@@ -1,22 +1,5 @@
 <p align="center">
   <img src="gittu.png" width="100%" />
-</p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/poornaprajays">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/poornaprajays">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/poornaprajays">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=poornaprajays&style=for-the-badge&color=blueviolet" />
-</div>
-<br/>
 
 🛠️ Tools & Tech
 💻 Languages
