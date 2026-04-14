@@ -82,7 +82,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ---
 <p align="center">
-  <img src="gitty.jpg" width="38%" />
+  <img src="gitty.jpg" width="55%" />
 <br/>
 
 
