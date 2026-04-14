@@ -12,7 +12,7 @@ Currently working as a **Wildlife Monitoring Intern**, contributing to a **3D Ec
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
 <p align="center">
-  <img src="birds.gif" width="100%" />
+  <img src="birds.gif" width="75" />
 <br/>
 
 ---
@@ -76,13 +76,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornaprajays&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornaprajays&theme=github-compact&hide_border=true&area=true&color=1f6feb" width="96%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornaprajays&theme=github-compact&hide_border=true&area=true&color=1f6feb&title_color=ffffff&line=1f6feb&point=ffffff&hide_title=true" width="96%" />
 </div>
 
 
