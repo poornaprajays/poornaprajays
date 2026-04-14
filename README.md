@@ -50,7 +50,7 @@
 <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=poornaprajays&theme=tokyo-night&hide_border=true&area=true" width="96%" />
-</div>
+</div> <ln></ln>
 
 <br/>
 <div align="center">
