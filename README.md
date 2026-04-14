@@ -1,5 +1,5 @@
-##<p align="center">
-  <img src="banner1.png" width="100%" />
+<p align="center">
+  <img src="giity.jpg" width="100%" />
 </p>
 
 <!--
