@@ -2,6 +2,14 @@
   <img src="gittu.png" width="100%" />
 <br/>
 
+<div align="center">
+  <img src="banner.jpg" alt="Poorna Prajay S" width="100%" />
+</div>
+
+<br/>
+
+
+
 ## 👨‍💻 About Me
 
 I’m a Computer Science & Engineering student focused on building **real-world, scalable systems** that combine **software engineering, artificial intelligence, and data**.
@@ -90,7 +98,6 @@ I enjoy solving meaningful problems where technology creates real impact.
 <div align="center">
   <i>✨ "Engineers turn dreams into reality." — Hayao Miyazaki</i>
 </div>
-
 
 
 
