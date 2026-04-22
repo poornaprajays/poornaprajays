@@ -19,7 +19,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" />
@@ -28,7 +28,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
-### 🌐 Frontend & UI
+### Frontend & UI
 <p>
   <img src="https://img.shields.io/badge/React%2018-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white" />
@@ -36,7 +36,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 <p>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Electron.js-%2347848F.svg?style=flat-square&logo=electron&logoColor=white" />
@@ -44,7 +44,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 
-### 🤖 Data & Machine Learning
+### Data & Machine Learning
 <p>
   <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
@@ -52,7 +52,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
@@ -62,7 +62,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ---
 
-## 🚀 Specializations
+## Specializations
 
 - Real-Time Data Streaming (Socket.IO & WebSockets)
 - Full-Stack Engineering (Node.js + React + TypeScript)
