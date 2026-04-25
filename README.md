@@ -5,9 +5,9 @@
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science & Engineering student focused on building **real-world, scalable systems** that combine **software engineering,artificial intelligence,machine learning and data**.
+I’m a Computer Science & Engineering student  building **real-world, scalable systems** that combine **software engineering,artificial intelligence,machine learning and data**.
 
-Currently working as a **Intern**, contributing to a **3D Eco-Acoustic Wildlife data acquisition and processing platform** that detects and classifies **birds** and **animals** **sounds** using machine learning , MFCC , CNN and distributed IoT systems(Raspberry Pi).
+Currently working as an **Intern** , contributing to a **India's first 3D Eco-Acoustic Wildlife data acquisition and processing platform** that detects and classifies **birds** and **animals** **sounds** using machine learning , MFCC , CNN and distributed IoT systems(Raspberry Pi).
 
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
