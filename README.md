@@ -9,7 +9,7 @@ I’m a Computer Science & Engineering student  building **real-world, scalable 
 
 Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife data acquisition and processing platform** that detects and classifies vast variety of **birds** and **animals** ,through **vocalizations** using machine learning , MFCC , CNN and distributed IoT systems(Raspberry Pi).
 
-This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions...
+This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
 <p align="center">
   <img src="birds.gif" width="68%" />
