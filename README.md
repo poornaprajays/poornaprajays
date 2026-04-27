@@ -68,7 +68,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 - Full-Stack Engineering (Node.js + React + TypeScript)
 - Desktop Applications (Electron.js)
 - 3D Visualization (Three.js)
-- Machine Learning for Audio Classification
+- Machine Learning (MFCC & CNN) for Audio Classification
 - Scalable System Design & IoT Integration
 
 ---
