@@ -19,6 +19,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 ---
 
 ## 🛠️ Tech Stack
+---
 
 ### Languages
 <p>
@@ -45,12 +46,15 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 
-### Data & Machine Learning
+### AI, Bio-Acoustics & Intelligent Systems
 <p>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%231F425F.svg?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/MFCC-%23007ACC.svg?style=flat-square&logo=waveform&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-%2300A67E.svg?style=flat-square&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TDOA%20Triangulation-%230A192F.svg?style=flat-square&logo=googleearth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed%20IoT-%232C3E50.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
 ### Databases
@@ -61,16 +65,63 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Free%20Tier-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Free%20Tier-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/OAuth%202.0-%23EB5424.svg?style=flat-square&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase%20Auth-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+### APIs & Integrations
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-%23F55036.svg?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+### Version Control & Collaboration
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### Deployment
+<p>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black" />
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
+</p>
+
+### UI/UX & Creative Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-%23000000.svg?style=flat-square&logo=framer&logoColor=white" />
+</p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestSprite-%23007ACC.svg?style=flat-square&logo=testinglibrary&logoColor=white" />
+</p>
+
 ---
-
-## Specializations
-
-- Real-Time Data Streaming (Socket.IO & WebSockets)
-- Full-Stack Engineering (Node.js + React + TypeScript)
-- Desktop Applications (Electron.js)
-- 3D Visualization (Three.js)
-- Machine Learning (MFCC & CNN) for Audio Classification
-- Scalable System Design & IoT Integration
 
 ---
 
