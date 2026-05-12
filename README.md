@@ -11,8 +11,6 @@ Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife'
 
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions...
 
-“The Earth does not belong to us. We belong to the Earth.” — Chief Seattle
-
 
 <p align="center">
   <img src="birds.gif" width="68%" />
@@ -88,7 +86,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="gitty.jpg" width="55%" />
 <br/>
 
-
+“The Earth does not belong to us. We belong to the Earth.” — Chief Seattle
 
 
 
