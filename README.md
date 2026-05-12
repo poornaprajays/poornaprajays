@@ -9,7 +9,7 @@ I’m a Computer Science & Engineering student  building **real-world, scalable 
 
 Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife's data acquisition and data processing platform** that detects and classifies vast variety of **birds** ,**mammals** and other **animals** in the jungle , through their **vocalizations** using machine learning , artificial intelligence , MFCC , CNN , RAG and also track them along with lat/long using triangulation method using distributed IoT systems as the hardware...
 
-This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions...
+This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions..
 
 
 <p align="center">
