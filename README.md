@@ -46,7 +46,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 
-### AI, Bio-Acoustics & Intelligent Systems
+### AI & ML
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%231F425F.svg?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=openai&logoColor=white" />
@@ -88,30 +88,6 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI%20API-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white" />
-</p>
-
-### Version Control & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat-square&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-
-### Deployment
-<p>
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
-</p>
-
-### UI/UX & Creative Tools
-<p>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-%23000000.svg?style=flat-square&logo=framer&logoColor=white" />
 </p>
 
 ### Testing
