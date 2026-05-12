@@ -105,7 +105,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Groq%20API-%23F55036.svg?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-%2374AA9C.svg?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-%23000000.svg?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 ### Testing
