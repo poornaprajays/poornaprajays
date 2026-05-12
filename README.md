@@ -60,6 +60,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Desktop%20Packaging-%232C2D72.svg?style=flat-square&logo=appveyor&logoColor=white" />
   
 </p>
+
 ### AI, Bio-Acoustics & IoT
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%231F425F.svg?style=flat-square&logo=tensorflow&logoColor=white" />
