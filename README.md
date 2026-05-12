@@ -7,9 +7,15 @@
 
 I’m a Computer Science & Engineering student  building **real-world, scalable systems** that combine **software engineering,artificial intelligence,machine learning and data**.
 
-Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife's data acquisition and data processing platform** that detects and classifies vast variety of **birds** ,**mammals** and other **animals** in the jungle , through their **vocalizations** using machine learning , artificial intelligence , MFCC , CNN , RAG and also track them with lat/long using triangulation using distributed IoT systems as the hardware...
+Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife's data acquisition and data processing platform** that detects and classifies vast variety of **birds** ,**mammals** and other **animals** in the jungle , through their **vocalizations** using machine learning , artificial intelligence , MFCC , CNN , RAG and also track them along with lat/long using triangulation TDOA method using distributed IoT systems as the hardware...
 
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions...
+
+**In my perspective...Forests are the lungs of our land and and each and evry species of animals and birds  Our generation can hear the heartbeat of the Earth through technology, and strive to  save it.
+
+**In my perspective...fortunately & gracefully our generation can hear the heartbeat of the Earth through technology ,with the right utilization and application of the technology , conservation of birds ,animals ,endangered species and **forest-the lungs of Earth** becomes much more possible and easier than ever before and its our responsiblilty as **Homo sapiens** to do so...happy to be a tiny contributor in this milestone...always gratefull to my CEO , teams memebers and the Company for their support in  working on this **niche** project...
+
+“The Earth does not belong to us. We belong to the Earth.” — Chief Seattle
 
 <p align="center">
   <img src="birds.gif" width="68%" />
