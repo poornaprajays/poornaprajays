@@ -110,7 +110,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ### Testing
 <p>
-  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white" height="20"/>
   <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?style=flat-square&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/TestSprite-%23007ACC.svg?style=flat-square&logo=testinglibrary&logoColor=white" />
 </p>
