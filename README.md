@@ -54,7 +54,6 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/MFCC-%23007ACC.svg?style=flat-square&logo=waveform&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-%2300A67E.svg?style=flat-square&logo=semanticweb&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReSpeaker%20Mic%20Array-%2300A98F.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Distributed%20IoT-%232C3E50.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
