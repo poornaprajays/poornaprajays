@@ -65,7 +65,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 ###  AI & ML and IOT 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%231F425F.svg?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MFCC-%23007ACC.svg?style=flat-square&logo=waveform&logoColor=white" />
   <img src="https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-%2300A67E.svg?style=flat-square&logo=semanticweb&logoColor=white" />
