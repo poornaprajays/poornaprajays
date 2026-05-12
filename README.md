@@ -83,10 +83,10 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ---
 <p align="center">
-  <img src="gitty.jpg" width="55%" />
+  <img src="gitty.jpg" width="55%" /> 
 <br/>
 
-“The Earth does not belong to us. We belong to the Earth.” — Chief Seattle
+“𝑻𝒉𝒆 𝑬𝒂𝒓𝒕𝒉 𝒅𝒐𝒆𝒔 𝒏𝒐𝒕 𝒃𝒆𝒍𝒐𝒏𝒈 𝒕𝒐 𝒖𝒔. 𝑾𝒆 𝒃𝒆𝒍𝒐𝒏𝒈 𝒕𝒐 𝒕𝒉𝒆 𝑬𝒂𝒓𝒕𝒉.” — 𝑪𝒉𝒊𝒆𝒇 𝑺𝒆𝒂𝒕𝒕𝒍𝒆
 
 
 
