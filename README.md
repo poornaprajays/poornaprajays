@@ -13,6 +13,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 “The Earth does not belong to us. We belong to the Earth.” — Chief Seattle
 
+
 <p align="center">
   <img src="birds.gif" width="68%" />
 <br/>
