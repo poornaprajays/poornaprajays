@@ -47,7 +47,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH%20Device%20Control-%230A192F.svg?style=flat-square&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux%20Terminal-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi%20IoT-%23C51A4A.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
+  
 </p>
 
 ### Packaging & Bundling
@@ -55,7 +55,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Electron%20Builder-%233478A0.svg?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/NSIS%20Installer-%230078D6.svg?style=flat-square&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Desktop%20Packaging-%232C2D72.svg?style=flat-square&logo=appveyor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cross--Platform%20Builds-%23007ACC.svg?style=flat-square&logo=windows11&logoColor=white" />
+  
 </p>
 
 ###  AI & ML and IOT 
@@ -66,6 +66,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/CNN-%23FF6F00.svg?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-%2300A67E.svg?style=flat-square&logo=semanticweb&logoColor=white" />
   <img src="https://img.shields.io/badge/Distributed%20IoT-%232C3E50.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20IoT-%23C51A4A.svg?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
 ### Databases
