@@ -46,7 +46,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Socket.IO-%23010101.svg?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
 
-### AI & ML
+###  ML Intelligent Systems  & IOT 
 <p>
   <img src="https://img.shields.io/badge/Machine%20Learning-%231F425F.svg?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=openai&logoColor=white" />
