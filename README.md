@@ -34,7 +34,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 <p>
   <img src="https://img.shields.io/badge/React%2018-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/ShadcnUI-%23000000.svg?style=flat-square&logo=shadcnui&logoColor=white" />
   <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=flat-square&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
