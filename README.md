@@ -56,7 +56,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 ### Packaging & Bundling
 <p>
   <img src="https://img.shields.io/badge/Electron%20Builder-%233478A0.svg?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/NSIS%20Installer-%230078D6.svg?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412191.svg?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Desktop%20Packaging-%232C2D72.svg?style=flat-square&logo=appveyor&logoColor=white" />
   
 </p>
