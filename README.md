@@ -18,6 +18,7 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 
 ---
 
+
 ## 🛠️ Tech Stack
 ---
 
@@ -83,6 +84,41 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS%20Free%20Tier-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Free%20Tier-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### Authentication & Security
+<p>
+  <img src="https://img.shields.io/badge/OAuth%202.0-%23EB5424.svg?style=flat-square&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase%20Auth-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase%20Auth-%233ECF8E.svg?style=flat-square&logo=supabase&logoColor=white" />
+</p>
+
+### APIs & Integrations
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-%23007ACC.svg?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq%20API-%23F55036.svg?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20API-%234285F4.svg?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-%23000000.svg?style=flat-square&logo=openai&logoColor=white" />
+</p>
+
+### Testing
+<p>
+  <img src="https://img.shields.io/badge/Playwright-%232EAD33.svg?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-%2317202C.svg?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/TestSprite-%23007ACC.svg?style=flat-square&logo=testinglibrary&logoColor=white" />
+</p>
+
+---
+
+---
 
 ---
 
