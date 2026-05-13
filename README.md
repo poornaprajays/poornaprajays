@@ -116,9 +116,6 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   <img src="https://img.shields.io/badge/TestSprite-%23007ACC.svg?style=flat-square&logo=testinglibrary&logoColor=white" />
 </p>
 
----
-
----
 
 ---
 
