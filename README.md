@@ -7,7 +7,7 @@
 
 I’m a Computer Science & Engineering student  building **real-world, scalable systems** that combine **software engineering,artificial intelligence,machine learning and data**.
 
-Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife's data acquisition and data processing platform** that detects and classifies vast variety of **birds** ,**mammals** and other **animals** in the jungle , through their **vocalizations** using machine learning , artificial intelligence , MFCC , CNN and training custom models   and also track them along with their lat/long using live triangulation method using distributed IoT systems such as  raspberry pi and ReSpeaker USB Mic Arrays as the hardware comes up with  a complete hardware setup from our company Anamtya Technologies Pvt Ltd ...
+Currently working as an **Intern** , contributing to **3D Bio-Acoustic Wildlife's data acquisition and data processing platform** that detects and classifies vast variety of **birds** ,**mammals** and other **animals** in the jungle , through their **vocalizations** using machine learning , artificial intelligence , MFCC , CNN and training custom models using MLP and also track them along with their lat/long using live triangulation method using distributed IoT systems such as  raspberry pi and ReSpeaker USB Mic Arrays as the hardware comes up with  a complete hardware setup from our company Anamtya Technologies Pvt Ltd ...
 
 This work enables real-time **biodiversity monitoring** and contributes to **forest-conservation** focused technology solutions.
 
