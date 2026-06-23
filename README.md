@@ -55,7 +55,17 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
 </p>
 
 
-### Deployment 
+  ### Deployment & Hosting
+<p>
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=flat-square&logo=netlify&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Railway-%230B0D0E.svg?style=flat-square&logo=railway&logoColor=white" />
+</p>
+
 
 ### Packaging & Bundling
 <p>
