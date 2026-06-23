@@ -54,6 +54,9 @@ This work enables real-time **biodiversity monitoring** and contributes to **for
   
 </p>
 
+
+### Deployment 
+
 ### Packaging & Bundling
 <p>
   <img src="https://img.shields.io/badge/Electron%20Builder-%233478A0.svg?style=flat-square&logo=electron&logoColor=white" />
